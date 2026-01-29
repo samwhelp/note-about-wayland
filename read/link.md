@@ -30,6 +30,15 @@ has_children: false
 
 
 
+## Awesome Wayland
+
+| Awesome Wayland |
+| --------------- |
+| GitHub / [awesome-wayland](https://github.com/rcalixte/awesome-wayland) |
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
