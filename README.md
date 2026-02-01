@@ -20,9 +20,18 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [River 探索筆記](https://samwhelp.github.io/note-about-riverwm/) | [GitHub](https://github.com/samwhelp/note-about-riverwm) |
 | [Hyprland 探索筆記](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
+| [Niri 探索筆記](https://samwhelp.github.io/note-about-niri/) | [GitHub](https://github.com/samwhelp/note-about-niri) |
+| [Mangowc 探索筆記](https://samwhelp.github.io/note-about-mangowc/) | [GitHub](https://github.com/samwhelp/note-about-mangowc) |
+| [River 探索筆記](https://samwhelp.github.io/note-about-riverwm/) | [GitHub](https://github.com/samwhelp/note-about-riverwm) |
 | [Sway 探索筆記](https://samwhelp.github.io/note-about-sway/) | [GitHub](https://github.com/samwhelp/note-about-sway) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [Labwc 探索筆記](https://samwhelp.github.io/note-about-labwc/) | [GitHub](https://github.com/samwhelp/note-about-labwc) |
+| [Wayfire 探索筆記](https://samwhelp.github.io/note-about-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-wayfire) |
+| [Cosmic 探索筆記](https://samwhelp.github.io/note-about-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-cosmic) |
 
 
 
