@@ -4,6 +4,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [Wayland Adjustment](https://samwhelp.github.io/wayland-adjustment/) | [GitHub](https://github.com/samwhelp/wayland-adjustment) |
 | [Wayland 探索筆記](https://samwhelp.github.io/note-about-wayland/) | [GitHub](https://github.com/samwhelp/note-about-wayland) |
 
 
