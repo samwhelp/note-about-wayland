@@ -21,6 +21,11 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [Quickshell 探索筆記](https://samwhelp.github.io/note-about-quickshell/) | [GitHub](https://github.com/samwhelp/note-about-quickshell) |
+
+
+| Link | GitHub |
+| ---- | ------ |
 | [Hyprland 探索筆記](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
 | [Niri 探索筆記](https://samwhelp.github.io/note-about-niri/) | [GitHub](https://github.com/samwhelp/note-about-niri) |
 | [Mangowm 探索筆記](https://samwhelp.github.io/note-about-mangowm/) | [GitHub](https://github.com/samwhelp/note-about-mangowm) |
