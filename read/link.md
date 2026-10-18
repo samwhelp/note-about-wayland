@@ -30,6 +30,16 @@ has_children: false
 
 
 
+## Wayland Explorer
+
+| Wayland Explorer |
+| ------------ |
+| [Wayland Explorer](https://wayland.app/protocols/) |
+| GitHub / [wayland-explorer](https://github.com/vially/wayland-explorer) |
+
+
+
+
 ## Awesome Wayland
 
 | Awesome Wayland |
